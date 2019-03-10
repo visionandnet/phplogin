@@ -24,15 +24,9 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>PHP Login Script Without Using Database</title>
-<link href="./css/style.css" rel="stylesheet">
+<title></title>
 </head>
 <body>
-<div id="Frame0">
-  <h1>PHP Login Script Without Using Database Demo.</h1>
-  <p>More tutorials <a href="http://www.w3schools.in/">www.w3schools.in</a></p>
-</div>
-<br>
 <form action="" method="post" name="Login_Form">
   <table width="400" border="0" align="center" cellpadding="5" cellspacing="1" class="Table">
     <?php if(isset($msg)){?>
